@@ -8,6 +8,5 @@ botao.addEventListener('click',
 
         const logado = usuarios.find(user => user.login === login && user.senha === senha);
 
-
     }
 );
